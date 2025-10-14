@@ -1,2 +1,1 @@
-# messenger
-The public version of Turbowarp Messenger
+# TurboWarp Messenger: Public Edition
